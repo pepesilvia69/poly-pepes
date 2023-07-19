@@ -8,8 +8,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Hola template</title>
-        <meta property="og:title" content="Hola template" />
+        <title>Poly Pepes</title>
+        <meta property="og:title" content="Poly Pepes" />
       </Helmet>
       <div className="home-navbar">
         <header data-thq="thq-navbar" className="home-navbar-interactive">
